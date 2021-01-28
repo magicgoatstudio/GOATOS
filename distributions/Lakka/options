@@ -8,10 +8,10 @@
   HARDENING_SUPPORT="no"
 
 # Name of the Distro to build (full name, without special characters)
-  DISTRONAME="Lakka"
+  DISTRONAME="GoatOS"
 
 # short project description
-  DESCRIPTION="Lakka is a fast and user-friendly retroarch turnkey distribution"
+  DESCRIPTION="GOATOS is a fast and user-friendly retroarch turnkey distribution"
 
 # Welcome Message for e.g. SSH Server (up to 5 Lines)
   GREETING0="###########################################"
@@ -151,8 +151,8 @@ DISTRO_SRC="http://sources.libreelec.tv/$LIBREELEC_VERSION"
   GET_HANDLER_SUPPORT="archive git"
 
 # Partition labels for USB/SD installation media
-  DISTRO_BOOTLABEL="LAKKA"
-  DISTRO_DISKLABEL="LAKKA_DISK"
+  DISTRO_BOOTLABEL="GOATOS"
+  DISTRO_DISKLABEL="GOATOS_DISK"
 
 # Settings package name - blank if not required
 # DISTRO_PKG_SETTINGS="LibreELEC-settings"
